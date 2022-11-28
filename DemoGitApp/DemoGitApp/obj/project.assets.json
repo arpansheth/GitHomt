@@ -8,23 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Arpan Sheth\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Arpan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitProject\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
+      "projectUniqueName": "C:\\GitHome\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
       "projectName": "DemoGitApp",
-      "projectPath": "C:\\GitProject\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
-      "packagesPath": "C:\\Users\\Arpan Sheth\\.nuget\\packages\\",
-      "outputPath": "C:\\GitProject\\DemoGitApp\\DemoGitApp\\obj\\",
+      "projectPath": "C:\\GitHome\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
+      "packagesPath": "C:\\Users\\Arpan\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHome\\DemoGitApp\\DemoGitApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Arpan Sheth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Arpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,10 +33,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +50,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }

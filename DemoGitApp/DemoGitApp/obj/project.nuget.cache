@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4LFTg3ppfw4ZaZC9aXUwntikTBjx+tlx1Mi6S+yaBGPhgRE5/yRevnfN9qlVl9LSJpC4aOv5JK/M1RCGMgvIcg==",
+  "dgSpecHash": "XKj2tzLdAL3doAdJ6rP7FQx9KEccYM8bhokXEk31rc+lYXRgfszdNIs0NEbs7uZyL8keHB+M8Pw6nO6orDTgUg==",
   "success": true,
-  "projectFilePath": "C:\\GitProject\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
+  "projectFilePath": "C:\\GitHome\\DemoGitApp\\DemoGitApp\\DemoGitApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
